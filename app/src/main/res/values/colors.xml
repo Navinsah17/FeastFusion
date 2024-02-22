@@ -9,4 +9,5 @@
     <color name="PURPLE_200">#FFBB86FC</color>
 
     <color name="g_black">#33405f</color>
+    <color name="shimmer_color">#c2c2c2</color>
 </resources>

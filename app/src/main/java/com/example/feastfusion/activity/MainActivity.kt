@@ -1,9 +1,10 @@
-package com.example.feastfusion
+package com.example.feastfusion.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
+import com.example.feastfusion.R
 import com.example.feastfusion.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
